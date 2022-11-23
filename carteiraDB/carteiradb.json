@@ -1,0 +1,30 @@
+[
+    {
+        "symbol": "ITSA4",
+        "price": 13.89,
+        "date": "12/12/2018",
+        "quantidade": 100,
+        "id": 1
+    },
+    {
+        "symbol": "WEGE3",
+        "price": 25.8,
+        "date": "12/12/2019",
+        "quantidade": 100,
+        "id": 2
+    },
+    {
+        "id": 3,
+        "symbol": "KLBN4",
+        "price": "3.60",
+        "date": "12/07/2022",
+        "quantidade": "230"
+    },
+    {
+        "id": 4,
+        "symbol": "TAEE4",
+        "price": "12.85",
+        "date": "01/11/2021",
+        "quantidade": "100"
+    }
+]
